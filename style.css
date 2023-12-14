@@ -1,0 +1,16 @@
+body {
+    background-color: #353535;
+}
+.logo_bianca {
+    gap: 5px;
+    width: 100%;
+    display: flex;
+    margin-top: 200px;
+    align-items: center;
+    color: white;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.logo_bianca img{
+    width: 40px;
+}
