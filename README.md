@@ -9,5 +9,8 @@ Usar os recursos: prompt, alert, if/else, return e function
 
 
 
-https://github.com/BiancaBarcelos/FuturoDEV-semana-2-aula-4/assets/136381822/23fe9c9c-296e-4568-95ae-2a6e77e9274a
+https://github.com/BiancaBarcelos/FuturoDEV-semana-2-aula-4/assets/136381822/36e8efa5-06e1-4380-8c71-3976b1123633
+
+
+
 
